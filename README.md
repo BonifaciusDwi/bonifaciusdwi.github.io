@@ -1,2 +1,2 @@
 # bonifaciusdwi.github.io
-test website for GIS class
+Personal website to showcase GIS projects, skills, and interest
